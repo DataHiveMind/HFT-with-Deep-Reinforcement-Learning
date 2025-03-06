@@ -1,0 +1,11 @@
+torch
+mplfinance
+matplotlib
+numpy
+pandas
+scikitlearn
+tensoflow
+keras
+yfinance
+gym
+stable-baselines3
